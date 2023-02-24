@@ -1,0 +1,119 @@
+/*Estilo Css creado por Alejandro Pérez Forcada, Febrero de 2023 */
+
+body{
+    background-image: url('../Imagenes/Constelaciones-mundos-cosmere.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+#contenedor {
+    margin:0 auto;
+    width:1300px;
+}
+.titulo{
+    background-color:rgb(141, 96, 37);
+    margin-right: 700px;
+    text-align: center;
+    border-radius: 25px;
+    font-family: "Garamond";
+    color: rgb(10, 10, 10);
+}
+.header{
+    background-color:rgb(141, 96, 37);
+    text-align: center;
+    width:750px;
+    height:40px;
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    margin-left: 240px;
+    font-family: "Garamond";
+    font-weight: 50;
+    border-radius: 25px;
+    color: rgb(10, 10, 10);
+}
+.parrafo{
+    background-color:rgb(141, 96, 37);
+    border-radius: 25px;
+    font-family: "Garamond";
+    color: rgb(10, 10, 10)
+
+}
+
+h2{
+    background-color:rgb(141, 96, 37);
+    border-radius: 25px;
+    margin-right: 700px;
+    text-align: center;
+    font-family: "Garamond";
+    color: rgb(10, 10, 10);
+
+}
+h3{
+    background-color:rgb(141, 96, 37);
+    border-radius: 25px;
+    margin-right: 700px;
+    text-align: center;
+    font-family: "Garamond";
+    color: rgb(10, 10, 10);
+}
+img{
+    border-radius: 25px;
+
+}
+a:link{
+    color: rgb(10, 10, 10);
+}
+a:visited{
+    color: rgb(10, 10, 10);
+}
+ul{
+    background-color:rgb(141, 96, 37);
+    border-radius: 25px;
+    font-family: "Garamond";
+    color: rgb(10, 10, 10);
+    margin-right: 700px;
+    
+
+}
+ol{
+    background-color:rgb(141, 96, 37);
+    border-radius: 25px;
+    font-family: "Garamond";
+    color: rgb(10, 10, 10);
+    margin-right: 700px;
+    
+}
+.pie{
+    background-color:rgb(141, 96, 37);
+    border-radius: 25px;
+    font-family: "Garamond";
+    color:rgb(10, 10, 10);
+    margin-right: 1100px;
+    text-align: center;
+
+}
+.oltabla{
+    background-color:rgb(141, 96, 37);
+    border-radius: 25px;
+    font-family: "Garamond";
+    color: rgb(10, 10, 10);
+    margin-right: 0px;
+}
+
+table{
+    background-color:rgb(141, 96, 37);
+    border-radius: 25px;
+    font-family: "Garamond";
+    color: rgb(10, 10, 10);
+}
+form {
+    border-radius: 25px;
+    font-family: "Garamond";
+    color: rgb(10, 10, 10);
+    margin-right: 700px;
+    background-color:rgb(141, 96, 37);
+
+  }
