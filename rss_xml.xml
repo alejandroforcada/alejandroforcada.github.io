@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+	<title>Brandon Sanderson: Noticias</title>
+	<link>https://github.com/lauraAltava/miweb/blob/main/noticia1.xml</link>
+	<description>Noticias de Brandon Sanderson</description>
+	<language>es-ES</language>
+	<image>
+  	<title>icono rss</title>
+  	<url>https://github.com/alejandroforcada/webmarcas/blob/main/Imagenes/rss_icono.png</url>
+  	<link>https://alejandroforcada.github.io/webmarcas/</link>
+  	<width>90</width>
+  	<height>36</height>
+	</image>
+
+	<!-- Noticia 1 -->
+	<item>
+  	<title>Brandon Sanderson: "Como autor no puedes incumplir tus promesas y decepcionar a la gente</title>
+  	<link>https://www.elmundo.es/cultura/literatura/2023/04/29/644a9f28fc6c83fa3b8b45d0.html</link>
+  	<description>El Tolkien norteamericano es el nuevo faro de la épica, con más de 30 novelas publicadas. No planea dejar de escribir hasta cumplir 70 "para complacer a sus lectores"</description>
+	</item>
+
+	<!-- Noticia 2 -->
+	<item>
+  	<title>Brandon Sanderson desvela cuáles de sus novelas quiere ver adaptadas como series y películas</title>
+  	<link>https://vandal.elespanol.com/noticia/r20552/brandon-sanderson-desvela-cuales-de-sus-novelas-quiere-ver-adaptadas-como-series-y-peliculas</link>
+  	<description>Brandon Sanderson, responsable del Cosmere y uno de los autores más prolíficos del género de fantasía de los últimos años, asegura que su saga puede saltar a la industria cinematográfica.</description>
+	</item>
+
+	<!-- Noticia 3 -->
+	<item>
+  	<title>Brandon Sanderson desvela más libros y habla sobre los proyectos audiovisuales</title>
+  	<link>https://www.lacasadeel.net/2022/12/brandon-sanderson-state-2022.html</link>
+  	<description>El State of the Sanderson 2022 ya está aquí, Brandon Sanderson nos cuenta sus planes de futuro</description>
+	</item>
+
+	<!-- Agrega más noticias como items -->
+
+  </channel>
+</rss>
